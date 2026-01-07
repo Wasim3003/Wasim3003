@@ -23,7 +23,8 @@
 
 ---
 <p>check out my portfolio</p>
-<a>https://wasims-portfolio-copy-7397af93.base44.app/</a>
+([portfolio](https://wasims-portfolio-copy-7397af93.base44.app/))
+
 
 ---
 
