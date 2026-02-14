@@ -15,6 +15,9 @@
 📍 Visakhapatnam, India  
 
 ---
+## my_portfilio
+<a href="https://wasims-portfolio-copy-7397af93.base44.app/" target="_blank">Portfolio 🌐</a>
+
 
 ## 🛠️ Tech Stack
 
@@ -97,7 +100,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/wasimullah-siddique-048ab7255/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:wasimroy272@gmail.com">
